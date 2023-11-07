@@ -1,0 +1,36 @@
+# fruits
+
+apple
+watermelon
+pear
+strawberry
+blueberry
+banana
+mango
+
+# vegetables
+
+carrots
+brocoli
+cucumber
+onions
+asparagus
+brussels sprouts
+
+# animals
+
+cat
+dog
+bird
+shark
+elephant
+snake
+bear
+horse
+
+# family memebers
+
+Jessica
+Wyatt
+Pepper
+Briar
